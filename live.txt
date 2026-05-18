@@ -1,2 +1,4 @@
-# tvbox
-深圳卫视
+深圳频道,#genre#
+深圳卫视,http://117.161.12.124/live/program/live/szwshd8m/8000000/mnf.m3u8
+深圳卫视-备用1,http://58.220.219.14:9901/tsfile/live/0126_1.m3u8?key=txiptv
+深圳卫视-备用2,http://111.61.236.247:9081/hls/38/index.m3u8
